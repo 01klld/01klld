@@ -20,9 +20,9 @@ Passionate cybersecurity professional with expertise in penetration testing, net
 - Programming: Bash, Python, C++
 
 ## 📬 Connect With Me
-- **GitHub**: [github.com/your-username](https://github.com/01klld)
-- **TryHackMe**: [tryhackme.com/p/your-profile](https://tryhackme.com/p/0xKLD)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/khaled-alrowaishan/)
+- **GitHub**: [here](https://github.com/01klld)
+- **TryHackMe**: [here](https://tryhackme.com/p/0xKLD)
+- **LinkedIn**: [here](https://www.linkedin.com/in/khaled-alrowaishan/)
 
 🚀 *Always learning, always improving!*
 
