@@ -5,7 +5,7 @@
 Passionate cybersecurity professional with expertise in penetration testing, network security, and vulnerability assessment. Skilled in ethical hacking, security programming, and CTF competitions.
 
 ## 🏆 Experience
-- **CTF Player** (PicoCTF, TryHackMe, HackTheBox)
+- **CTF Player** (TryHackMe, HackTheBox, PicoCTF, ...etc)
 - **Freelancer** (Web security assessments)
 
 ## 📜 Certifications
